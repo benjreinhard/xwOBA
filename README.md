@@ -1,4 +1,4 @@
-## xwOBA
+#### xwOBA project
   - Investigating xwOBA to improve its predictive power
   - using 2021-2024 baseball savant data of hitters with >= 400 pa in any given season
 
